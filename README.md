@@ -6,7 +6,7 @@ The name of the audio file and the art file should be the same as it reads `<nam
 
 ## Compatibility
 
-Since this script uses the `sed` tool to do REGEX matchings, and since the fact that there are two favors while this script is intended to run on MacOS, therefore if it gives:
+Since this script uses the `sed` tool to do REGEX matchings, and because of the fact that it has two favors while this script is intended to run on MacOS, therefore if it gives:
 ```
 sed: illegal option -- E
 ```
